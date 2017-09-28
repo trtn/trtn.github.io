@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://trtn.fr/sitemap.xml
