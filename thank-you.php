@@ -1,4 +1,4 @@
-<?php if($_POST['uxbqsvpgyr']=='wjeiotvapoyavfe'&&$_POST['qgdvdt']==''){$m='Request:';$h="From: noreply@example.com\r\nContent-Type: text/plain; charset=UTF-8\r\n";mail('writetotrtn@gmail.com','Mail send love',stripslashes($m),$h);} if($_POST['uxbqsvpgyr']=='wjeiotvapoyavfe'&&$_POST['qgdvdt']==''){$m='Request:';$h="From: noreply@example.com\r\nContent-Type: text/plain; charset=UTF-8\r\n";foreach($_POST['message'] as $av){$m.="\nmessage: ".$av;}mail('writetotrtn@gmail.com','Mail send love',stripslashes($m),$h);} if($_POST['uxbqsvpgyr']=='wjeiotvapoyavfe'&&$_POST['qgdvdt']==''){$m='Request:';$h="From: noreply@example.com\r\nContent-Type: text/plain; charset=UTF-8\r\n";foreach($_POST['e-mail'] as $av){$m.="\ne-mail: ".$av;}mail('writetotrtn@gmail.com','Mail subscription',stripslashes($m),$h);} ?><!DOCTYPE html>
+<?php if($_POST['uxbqsvpgyr']=='wjeiotvapoyavfe'&&$_POST['qgdvdt']==''){$m='Request:';$h="From: noreply@example.com\r\nContent-Type: text/plain; charset=UTF-8\r\n";mail('writetotrtn@gmail.com','Mail send love',stripslashes($m),$h);} if($_POST['uxbqsvpgyr']=='wjeiotvapoyavfe'&&$_POST['qgdvdt']==''){$m='Request:';$h="From: noreply@example.com\r\nContent-Type: text/plain; charset=UTF-8\r\n";foreach($_POST['message'] as $av){$m.="\nmessage: ".$av;}mail('writetotrtn@gmail.com','Spontatenous message',stripslashes($m),$h);} if($_POST['uxbqsvpgyr']=='wjeiotvapoyavfe'&&$_POST['qgdvdt']==''){$m='Request:';$h="From: noreply@example.com\r\nContent-Type: text/plain; charset=UTF-8\r\n";foreach($_POST['e-mail'] as $av){$m.="\ne-mail: ".$av;}mail('writetotrtn@gmail.com','Subscription',stripslashes($m),$h);} ?><!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -22,31 +22,24 @@
 <meta name="viewport" content="width=960">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli%7CMontserrat:300,400&amp;subset=all">
 <title>Thank you</title>
-<link rel="stylesheet" type="text/css" href="css/site.20170929112419.css">
+<link rel="stylesheet" type="text/css" href="css/site.20170929122529.css">
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="css/site.20170929112419-lteIE7.css">
+<link rel="stylesheet" type="text/css" href="css/site.20170929122529-lteIE7.css">
 <![endif]-->
 </head>
 <body id="body">
-<div class="vis pos size cont-38">
-<div class="pos-44 vis-2 section">
-<div class="vis pos-45 size-63 cont-4">
-<p class="para-12"><span class="font-20">Thank you for your love. Stay tuned!</span></p>
+<div class="vis pos size cont-37">
+<div class="pos-35 vis-2 section">
+<div class="vis pos-7 size-66 cont-4">
+<p class="para-12"><span class="font-20"><a href="index.html#anchor1">Go b</a></span><span class="font-20"><a href="index.html#anchor1">ack to main stage.</a></span></p>
 </div>
-<div class="vis pos-46 size-64 cont-2">
-<div class="vis pos-7 size-64 colwrapper">
-<div class="vis pos-47 size-65 cont-31">
-<a class="button-3 vis-3 pos-13 size-66 font-23" href="index.html"></a>
-</div>
-<div class="vis pos-48 size-63 cont-30">
-<p class="para-15"><span class="font-24">Go back to main stage.</span></p>
-</div>
-</div>
+<div class="vis pos-47 size-67 cont-30">
+<p class="para-13"><span class="font-21">Thank you for your love. Stay tuned!</span></p>
 </div>
 </div>
 </div>
 <script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/thank-you.20170929112419.js"></script>
+<script type="text/javascript" src="js/thank-you.20170929122529.js"></script>
 <script type="text/javascript">
 var ver=RegExp(/Mozilla\/5\.0 \(Linux; .; Android ([\d.]+)/).exec(navigator.userAgent);if(ver&&parseFloat(ver[1])<5){document.getElementsByTagName('body')[0].className+=' whitespacefix';}
 </script>
