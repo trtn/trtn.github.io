@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://trtn.fr/sitemap.xml
+Sitemap: https://trtn.github.io/sitemap.xml
